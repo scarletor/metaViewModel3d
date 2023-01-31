@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Multimeta/Scenes/00_TitleScene.unity
+    guid: ef2192b2fe80e8a4c8f6a7d8df0dcb96
+  - enabled: 1
+    path: Assets/Multimeta/Scenes/01_LoginScene.unity
+    guid: 20c8e2f027004194692b7223af3c9c55
+  - enabled: 1
+    path: Assets/Multimeta/Scenes/02_SignUpScene.unity
+    guid: e0b1a535d3a2d2f48bcae7ae7fe7c7c4
+  - enabled: 1
+    path: Assets/Multimeta/Scenes/03_HomeScene.unity
+    guid: cc839a0523512fc48a011c9216a3e2a4
+  - enabled: 1
+    path: Assets/Multimeta/Scenes/04_LoadingScene.unity
+    guid: 2129640dc0359874d930e6aa509bb652
+  - enabled: 1
+    path: Assets/Multimeta/Scenes/05_AvatarScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Multimeta/Scenes/06_MetaverseScene.unity
+    guid: 0ee3c8ed7f43f6d48be733bacdc9f50d
+  - enabled: 1
+    path: Assets/Multimeta/Scenes/PDFViewer.unity
+    guid: eece6525b1ac56047b2c75fd1ac6f578
+  m_configObjects: {}
